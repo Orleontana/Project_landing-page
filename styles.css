@@ -1,5 +1,4 @@
 .principal-block {
-    max-width: 1920px;
     width: 100%;
     height: 790px;
     background-image: url("hero.jpg");
@@ -98,7 +97,6 @@ html {
 }
 
 .second-screen {
-    max-width: 1920px;
     width: 100%;
     height: 900px;
 }
@@ -186,19 +184,16 @@ h4 {
 
 .img {
     width: 512px;
-    position: relative;
+    margin-top: 9%;
    
 }
 
 .box__image {
     width: 512px;
     object-fit: contain;
-    position: absolute;
-    bottom: 0;
 }
 
 .third-screen {
-    max-width: 1920px;
     width: 100%;
     height: 400px;
     background-color: #ffedd5;
@@ -255,7 +250,6 @@ h4 {
 }
 
 .fourth-screen {
-    max-width: 1920px;
     width: 100%;
     height: 700px;
     background-color: var(--secondary-color);
@@ -361,7 +355,6 @@ h4 {
 }
 
 .footer {
-    max-width: 1920px;
     width: 100%;
     background-color: var(--secondary-color);
 }
